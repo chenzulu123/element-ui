@@ -108,7 +108,7 @@
 <style scoped>
 .login-info{
     width:400px;
-    height: 400px;
+    height: 300px;
     margin: 80px auto;
 }
 </style>

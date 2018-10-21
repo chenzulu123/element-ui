@@ -2,7 +2,7 @@
   <div id="app">
     <top-header :language="language" @getLanguage="getLanguage"></top-header>
     <router-view/>
-    <footer></footer>
+    <bootm-footer></bootm-footer>
   </div>
 </template>
 
@@ -17,7 +17,7 @@
     },
     components: {
       topHeader: Header,
-      Footer
+      bootmFooter:Footer
     },
     methods: {
       getLanguage(value) {

@@ -19,5 +19,10 @@ export default {
     password:"密码",
     passwordAgain:'确认密码',
     age:'年龄'
+  },
+  content:{
+      title:'Vue国际化配置',
+      content:'通过本次的Demo，你可以学会在Vue中通过vue-i18n插件配置项目的多远环境',
+      label:'项目地址'
   }
 }
