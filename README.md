@@ -24,4 +24,5 @@ npm run unit
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### 项目说明
+这个项目是用来学习怎么在Vue里面配置国际化的，通过这个小项目你可以学会怎么在自己的Vue项目里面配置多语言环境。
